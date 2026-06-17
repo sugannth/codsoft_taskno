@@ -1,0 +1,10 @@
+Customer_Churn_Prediction/
+│
+├── dataset/
+│   └── Churn_Modelling.csv
+│
+├── churn_prediction.py
+├── README.md
+├── requirements.txt
+├── confusion_matrix.png
+└── output_screenshot.png
