@@ -1,0 +1,14 @@
+Requirements for SMS spam detector:
+VS code or Python IDLE interpreter
+pandas==2.3.0
+numpy==2.3.0
+scikit-learn==1.7.0
+matplotlib==3.10.3
+seaborn==0.13.2
+
+What each package is used for:
+pandas → Reading and handling the dataset
+numpy → Numerical operations
+scikit-learn → TF-IDF, Naive Bayes, train-test split, evaluation metrics
+matplotlib → Graphs and plots
+seaborn → Better visualizations
