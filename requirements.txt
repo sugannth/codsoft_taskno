@@ -1,0 +1,11 @@
+Credit_Card_Fraud_Detection/
+│
+├── dataset/
+│   ├── fraudTrain.csv
+│   └── fraudTest.csv
+│
+├── fraud_detection.py
+├── README.md
+├── requirements.txt
+├── confusion_matrix.png
+└── output_screenshot.png
